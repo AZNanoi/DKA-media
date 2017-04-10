@@ -1,0 +1,103 @@
+body {background-image: url(1bgDKA.png); background-repeat:no-repeat; background-size:inherit;background-size:cover; background-size:contain;background-size:cover; background-position:top; height:900px;}
+
+#logo {background-image: url(logo.png);padding:0px; position:absolute; left:17%; top:30px; float:left; border-top:2px solid #c1bbf3; border-bottom:2px dashed #c1bbf3; width:950px; height:100px;}
+.headlogo {background-image: url(logohead.png); position:absolute; left:15px; top:5px; float:left;border-left:1px dashed #c1bbf3; border:2px solid #c1bbf3; width:400px; height:90px;}
+
+.menubgup {background-image: url(menubg.png); position:absolute; left:420px; top:6px; float:left; border-top:1px solid #c1bbf3; border-bottom:1px dashed #c1bbf3; width:520px; height:5px;}
+.menubgdown {background-image: url(menubg.png); position:absolute; left:420px; top:90px; float:left; border-top:1px dashed #c1bbf3; border-bottom:1px solid #c1bbf3; width:520px; height:5px;}
+
+#menucontainer {margin:0px; padding:0px; background-image: url(1DKAmenubar.png); width:510px; height:75px; display:inline; right:0px; margin-top:15px; float:right; list-style-type:none; border:px solid #42ee00;}
+#menucontainer li {margin:0px; padding:0px; list-style-type:none; type:list item; float:left; 
+list-style-position:outside;}
+#menucontainer li.home a {background-position:-31px -0px; margin-left:30px; margin-top:0px; width:85px; height:75px;  border: pxsolid #fa8f00;}
+#menucontainer li.home a:hover {background-position:-31px -83px; margin-left:30px; margin-top:0px; width:85px; height:75px;  border:px solid #fa8f00;}
+#menucontainer li.home a.selected {background-position:-31px -83px; margin-left:30px; margin-top:0px; width:85px; height:75px; border:px solid #fa8f00;}
+#menucontainer li.gallery a {background-position:-120px -0px; margin-left:4px; margin-top:0px; width:85px; height:75px;  border:px solid #fa8f00;}
+#menucontainer li.gallery a:hover {background-position:-120px -83px; margin-left:4px; margin-top:0px; width:85px; height:75px;  border:px solid #fa8f00;}
+#menucontainer li.gallery a.selected {background-position:-120px -83px; margin-left:4px; margin-top:0px; width:85px; height:75px; border:px solid #fa8f00;}
+#menucontainer li.music a {background-position:-209px -0px; margin-left:4px; margin-top:0px; width:85px; height:75px;  border: px solid #fa8f00;}
+#menucontainer li.music a:hover {background-position:-209px -83px; margin-left:4px; margin-top:0px; width:85px; height:75px;  border:px solid #fa8f00;}
+#menucontainer li.music a.selected {background-position:-209px -83px; margin-left:4px; margin-top:0px; width:85px; height:75px; border:px solid #fa8f00;}
+#menucontainer li.contact a {background-position:-298px -0px; margin-left:4px; margin-top:0px; width:85px; height:75px;  border: px solid #fa8f00;}
+#menucontainer li.contact a:hover {background-position:-298px -83px; margin-left:4px; margin-top:0px; width:85px; height:75px;  border:px solid #fa8f00;}
+#menucontainer li.contact a.selected {background-position:-298px -83px; margin-left:4px; margin-top:0px; width:85px; height:75px; border:px solid #fa8f00;}
+#menucontainer li.about a {background-position:-387px -0px; margin-left:4px; margin-top:0px; width:85px; height:75px;  border: px solid #fa8f00;}
+#menucontainer li.about a:hover {background-position:-387px -83px; margin-left:4px; margin-top:0px; width:85px; height:75px;  border:px solid #fa8f00;}
+#menucontainer li.about a.selected {background-position:-387px -83px; margin-left:4px; margin-top:0px; width:85px; height:75px; border:px solid #fa8f00;}
+#menucontainer li a{background-image: url(1DKAmenubar.png); text-indent:-9999px; background-color:transparent;
+background-repeat:no repeat; color:white; overflow:hidden; display:block; text-decoration:none; }
+
+
+
+#content {background-image: url(content.png);position:absolute;  left:17%; top:200px; border-top:1px dashed #c1bbf3; border-bottom:1px dashed #c1bbf3; width:950px; height:500px; float:left;}
+#slideshow {background-image: url(content.png);position:absolute;  left:10px; top:10px; border-top:1px solid #c1bbf3; border-bottom:1px solid #c1bbf3; width:600px; height:310px; float:left;}
+.DKAlogotext {background-image: url(DKAlogotext.png);position:absolute;  left:0px; top:5px; border:px solid #c1bbf3; width:150px; height:70px; float:left;}
+.CDcover {background-image: url(CDcover.png);position:absolute;  left:30px; top:180px; border:px solid #c1bbf3; width:200px; height:130px; float:left;}
+.contentslideshow {position:absolute;  left:0px; top:0px; border:px solid #c1bbf3; width:600px; height:310px; float:left;}
+
+#videos { background-image: url(content.png);position:absolute;  left:10px; top:330px; border-top:1px solid #c1bbf3; border-bottom:1px solid #c1bbf3; width:600px; height:155px; float:left;}
+#videos a {text-decoration:none;}
+#videos a:hover {text-decoration:underline; color:#1efefe; }
+.one {margin-left:10px; margin-top:5px; background-image: url(videosbg.png); border-top:1px solid #c1bbf3; border-bottom:1px solid #c1bbf3; width:141px; height:142px; float:left;}
+.two {margin-left:5px; margin-top:5px; background-image: url(gallerybg.png); border-top:1px solid #c1bbf3;border-bottom:1px solid #c1bbf3; width:141px; height:142px; float:left;}
+.three {margin-left:5px; margin-top:5px;background-image: url(gallerybg.png); border-top:1px solid #c1bbf3;border-bottom:1px solid #c1bbf3; width:141px; height:142px; float:left;}
+.four {margin-left:5px; margin-top:5px; background-image: url(gallerybg.png); border-top:1px solid #c1bbf3;border-bottom:1px solid #c1bbf3; width:142px; height:142px; float:left;}
+
+#divider {display:block; background-image: url(divider.png); margin:10px 625px; border-top:1px solid #c1bbf3; border-bottom:1px solid #c1bbf3; width:60px; height:475px; float:left;}  
+#divider li {margin:0px; padding:0px; list-style-type:none; type:list item; float:right; 
+list-style-position:outside;}
+#divider li.DKA a {background-position:-10px -20px; margin-right:10px; margin-top:20px; width:80px; height:44px;  border: px solid #fa8f00;}
+#divider li.DKA a:hover {background-position:-110px -20px; margin-right:10px; margin-top:20px; width:80px; height:44px;}
+#divider li.DKA a.selected {background-position:-110px -20px; margin-right:10px; margin-top:20px; width:80px; height:44px;}
+#divider li.RWin a {background-position:-10px -64px; margin-right:10px; margin-top:0px; width:80px; height:44px;  border: px solid #fa8f00;}
+#divider li.RWin a:hover {background-position:-110px -64px; margin-right:10px; margin-top:0px; width:80px; height:44px;}
+#divider li.RWin a.selected {background-position:-110px -64px; margin-right:10px; margin-top:0px; width:80px; height:44px;}
+#divider li.AhBaDi a {background-position:-10px -111px; margin-right:10px; margin-top:3px; width:80px; height:44px;  border: px solid #fa8f00;}
+#divider li.AhBaDi a:hover {background-position:-110px -111px; margin-right:10px; margin-top:3px; width:80px; height:44px;}
+#divider li.AhBaDi a.selected {background-position:-110px -108px; margin-right:10px; margin-top:3px; width:80px; height:44px;}
+#divider li.AuraLi a {background-position:-10px -155px; margin-right:10px; margin-top:0px; width:80px; height:44px;  border: px solid #fa8f00;}
+#divider li.AuraLi a:hover {background-position:-110px -155px; margin-right:10px; margin-top:0px; width:80px; height:44px;}
+#divider li.AuraLi a.selected {background-position:-110px -155px; margin-right:10px; margin-top:0px; width:80px; height:44px;}
+#divider li.PNA a {background-position:-10px -201px; margin-right:10px; margin-top:2px; width:80px; height:44px;  border: px solid #fa8f00;}
+#divider li.PNA a:hover {background-position:-110px -201px; margin-right:10px; margin-top:2px; width:80px; height:44px;}
+#divider li.PNA a.selected {background-position:-110px -201px; margin-right:10px; margin-top:2px; width:80px; height:44px;}
+#divider li.MSN a {background-position:-10px -247px; margin-right:10px; margin-top:2px; width:80px; height:44px;  border: px solid #fa8f00;}
+#divider li.MSN a:hover {background-position:-110px -247px; margin-right:10px; margin-top:2px; width:80px; height:44px;}
+#divider li.MSN a.selected {background-position:-110px -247px; margin-right:10px; margin-top:2px; width:80px; height:44px;}
+#divider li.NawNaw a {background-position:-10px -291px; margin-right:10px; margin-top:0px; width:80px; height:44px;  border: px solid #fa8f00;}
+#divider li.NawNaw a:hover {background-position:-110px -291px; margin-right:10px; margin-top:0px; width:80px; height:44px;}
+#divider li.NawNaw a.selected {background-position:-110px -291px; margin-right:10px; margin-top:0px; width:80px; height:44px;}
+#divider li.Plus3 a {background-position:-10px -337px; margin-right:10px; margin-top:2px; width:80px; height:44px;  border: px solid #fa8f00;}
+#divider li.Plus3 a:hover {background-position:-110px -337px; margin-right:10px; margin-top:2px; width:80px; height:44px;}
+#divider li.Plus3 a.selected {background-position:-110px -337px; margin-right:10px; margin-top:2px; width:80px; height:44px;}
+#divider li.GTingluk a {background-position:-10px -383px; margin-right:10px; margin-top:2px; width:80px; height:44px;  border: px solid #fa8f00;}
+#divider li.GTingluk a:hover {background-position:-110px -383px; margin-right:10px; margin-top:2px; width:80px; height:44px;}
+#divider li.GTingluk a.selected {background-position:-110px -383px; margin-right:10px; margin-top:2px; width:80px; height:44px;}
+#divider li.HGun a {background-position:-10px -427px; margin-right:10px; margin-top:0px; width:80px; height:44px;  border: px solid #fa8f00;}
+#divider li.HGun a:hover {background-position:-110px -427px; margin-right:10px; margin-top:0px; width:80px; height:44px;}
+#divider li.HGun a.selected {background-position:-110px -427px; margin-right:10px; margin-top:0px; width:80px; height:44px;}
+#divider li a{background-image: url(1divider.png); text-indent:-9999px; background-color:transparent;
+background-repeat:no repeat; color:white; overflow:hidden; display:block; text-decoration:none; }
+
+
+#blog {background-image: url(content.png);position:absolute;  left:740px; top:10px; border-top:1px solid #c1bbf3; border-bottom:1px solid #c1bbf3; width:200px; height:475px; float:left;}
+.bloginside {position:absolute; left:20px; top:10px; border-top:1px solid #c1bbf3; border-bottom:1px solid #c1bbf3; width:160px; height:450px; float:left;}
+
+
+#bottom {list-style-type:none;background-image: url(bottom.png);position:absolute;  left:17%; top:720px; border-top:1px solid #c1bbf3; border-bottom:1px dashed #c1bbf3; width:950px; height:70px; float:left;}
+#bottom ul {margin:10px 75px; padding:0px; list-style-type:none; }
+#bottom li {width:40px; height:17px; float:left; color: #31eefd;outline: 0px;background: transparent;padding: 0px 15px;vertical-align: baseline;display: inline;font-size: 15px;margin: 0px 0px 0px 0px; border-right:1px solid #c1bbf3;}
+#bottom a{ color: #31eefd;text-decoration: none;background: transparent;border: 0px;font-size: 100%;margin: 0px;outline: 0px;padding: 0px;vertical-align: baseline;}
+#bottom a:link {cursor: auto;color: webkit link;}
+#bottom a:hover {cursor: auto;text-decoration: underline;color: webkit link;}
+.eight {width:40px; height:17px; float:left; color: #31eefd;outline: 0px;background: transparent;padding: 0px;vertical-align: baseline;display: inline;font-size: 15px;margin: 0px 0px 0px 0px; border-right:px solid #c1bbf3;padding: 0px 15px;}
+.eight a{color: #31eefd;text-decoration: none;background: transparent;border: 0px;font-size: 100%;margin: 0px;outline: 0px;padding: 0px;vertical-align: baseline;}
+.eight a:link {cursor: auto;color: webkit link;}
+.eight a:hover {cursor: auto;text-decoration: underline;color: webkit link;}
+.leftbox {color: #dfe2f4; list-style-type:none; position:absolute;  left:20%; top:45px; border:px solid #c1bbf3;  width:400px; height:30px; float:left;}
+.rightbox {color: #dfe2f4; list-style-type:none; position:absolute;  left:62%; top:45px; border:px solid #c1bbf3;  width:200px; height:30px; float:left;}
+
+#gallery {text-decoration:none; background-image: url(gallerybg.png);position:absolute;  left:10px; top:10px; border-top:1px solid #c1bbf3; border-bottom:1px solid #c1bbf3; width:600px; height:475px; float:left;}
+#gallery a{text-decoration:none;}
+#gallery a:hover{text-decoration:underline; color: #31eefd;}
+#aboutgallery {background-image: url(gallerybg.png);position:absolute;  left:10px; top:10px; border-top:1px solid #c1bbf3; border-bottom:1px solid #c1bbf3; width:930px; height:475px; float:left;}
